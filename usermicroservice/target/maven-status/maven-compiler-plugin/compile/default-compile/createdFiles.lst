@@ -1,0 +1,6 @@
+htwb\ai\SIAB\usermicroservice\repository\UserRepository.class
+htwb\ai\SIAB\usermicroservice\dao\IUserDAO.class
+htwb\ai\SIAB\usermicroservice\dao\UserDAO.class
+htwb\ai\SIAB\usermicroservice\model\User.class
+htwb\ai\SIAB\usermicroservice\UsermicroserviceApplication.class
+htwb\ai\SIAB\usermicroservice\controller\UserController.class

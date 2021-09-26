@@ -1,0 +1,16 @@
+htwb\ai\SIAB\songmicroservice\service\SongDao.class
+htwb\ai\SIAB\songmicroservice\service\Songs.class
+htwb\ai\SIAB\songmicroservice\controller\SongController.class
+htwb\ai\SIAB\songmicroservice\service\IUserDAO.class
+htwb\ai\SIAB\songmicroservice\service\UserDAO.class
+htwb\ai\SIAB\songmicroservice\dao\SongRepository.class
+htwb\ai\SIAB\songmicroservice\domain\SongListe.class
+htwb\ai\SIAB\songmicroservice\domain\User.class
+htwb\ai\SIAB\songmicroservice\controller\SongListeController.class
+htwb\ai\SIAB\songmicroservice\dao\SongListeRepository.class
+htwb\ai\SIAB\songmicroservice\domain\Song.class
+htwb\ai\SIAB\songmicroservice\service\ISongListeDAO.class
+htwb\ai\SIAB\songmicroservice\service\SongListeDAO.class
+htwb\ai\SIAB\songmicroservice\SongmicroserviceApplication.class
+htwb\ai\SIAB\songmicroservice\dao\UserRepository.class
+htwb\ai\SIAB\songmicroservice\service\ISongDAO.class
